@@ -1,1 +1,8 @@
 .flaskapp/
+.flaskapp
+./.flaskapp/
+./.flaskapp
+./.flaskenv/
+./.flaskenv
+.flaskenv/
+.flaskenv
